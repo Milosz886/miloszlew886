@@ -7,3 +7,4 @@ HEAD
 Zmiana w main
 Nowa opcja projektu
 feature
+Dopisuje tekst do README.md
